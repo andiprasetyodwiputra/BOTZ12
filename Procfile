@@ -1,1 +1,1 @@
-worker : npm i  &&  npm i @adiwajshing/baileys@latest && npm start
+worker : npm i  &&  npm i @adiwajshing/baileys@latest && node main
